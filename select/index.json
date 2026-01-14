@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "DARK ARIA <LV2> (feat. XAI)",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-01-14T02:10:45.653115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/01_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "Hiroyuki SAWANO",
+      "has_synced": true,
+      "path": "select/03_DARK_ARIA__LV2__(feat._XAI)_Hiroyuki_SAWANO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/04_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "Sawano Hiroyuki",
+      "has_synced": true,
+      "path": "select/05_DARK_ARIA__LV2__(feat._XAI)_Sawano_Hiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/06_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk], XAI",
+      "has_synced": false,
+      "path": "select/pl_01_DARK_ARIA__LV2_SawanoHiroyuki[nZk],_XAI.txt"
+    }
+  ]
+}
